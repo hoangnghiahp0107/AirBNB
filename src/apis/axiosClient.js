@@ -6,7 +6,7 @@ const axiosClient = axios.create({
   baseURL: "https://airbnbnew.cybersoft.edu.vn/api",
   headers: {
     TokenCybersoft:
-      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5Mb3AiOiJOb2RlSlMgMzMiLCJIZXRIYW5TdHJpbmciOiIxNy8wMi8yMDI0IiwiSGV0SGFuVGltZSI6IjE3MDgxMjgwMDAwMDAiLCJuYmYiOjE2ODk2OTk2MDAsImV4cCI6MTcwODI3NTYwMH0.MRV8WJfRstSWSH-VhvCRNFTjrswM_3tM8u5u-EZysxk",
+      "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5Mb3AiOiJOb2RlSlMgNDIiLCJIZXRIYW5TdHJpbmciOiIyNi8xMS8yMDI0IiwiSGV0SGFuVGltZSI6IjE3MzI1NzkyMDAwMDAiLCJuYmYiOjE3MTUxMDEyMDAsImV4cCI6MTczMjcyNjgwMH0.ajklFRwbyDlc2iK9_3GbN_A9MdF7qg_CX7iXJqYMc4I",
   },
 });
 
